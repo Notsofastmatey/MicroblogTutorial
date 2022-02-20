@@ -5,4 +5,4 @@ This is from my laptop.
 
 This is from the laptop with Github desktop closed.
 
-This was added on Github.com
+This was a comment on Github.com but I edited it on the laptop.
