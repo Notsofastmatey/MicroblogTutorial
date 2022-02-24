@@ -47,3 +47,5 @@ TypeError: 'BaseQuery' object is not callable
 2022-02-20 14:14:26,146 INFO: Microblog startup [in D:\Users\Simon\Python-VSCode\projects\Microblog\app\__init__.py:47]
 2022-02-20 14:15:30,124 INFO: Microblog startup [in D:\Users\Simon\Python-VSCode\projects\Microblog\app\__init__.py:47]
 2022-02-20 20:02:25,705 INFO: Microblog startup [in C:\Users\Simon\Documents\VSCode\MicroblogTutorial\app\__init__.py:47]
+2022-02-24 14:36:10,447 INFO: Microblog startup [in C:\Users\Simon\Documents\VSCode\MicroblogTutorial\app\__init__.py:47]
+2022-02-24 14:59:40,287 INFO: Microblog startup [in C:\Users\Simon\Documents\VSCode\MicroblogTutorial\app\__init__.py:47]
