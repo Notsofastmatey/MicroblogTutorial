@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 
-{% block content %}
+{% block app_content %}
     {% for user in users %}
         <div><p>{{ user.username }} <b>{{user.about_me}}</b> {{user.email}}</p></div>
     {% endfor %}
